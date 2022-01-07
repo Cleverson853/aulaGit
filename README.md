@@ -6,4 +6,7 @@ descrição inicial do meu readme me.
 
 # # para que serve esse arquivo?
 
-Serve para descrever a função do código
+Serve para descrever a função do software
+
+como faz
+por que faz
