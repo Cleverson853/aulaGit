@@ -4,6 +4,9 @@ descrição inicial do meu readme me.
 
 ## Subtitulo
 
+Esse é o texto do sbtitulo
+
+
 # # para que serve esse arquivo?
 
 Serve para descrever a função do software
